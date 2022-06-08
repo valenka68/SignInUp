@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SignInUp</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="hello" translatable="false">Hello</string>
+    <string name="sing_in">Sing In</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="avatar">Avatar</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="name1">First name</string>
+    <string name="name2">Middle name</string>
+    <string name="name3">Family name</string>
+    <string name="done" translatable="false">Done</string>
+    <string name="no_acc">There is no such account </string>
+    <string name="exit">Exit </string>
+</resources>

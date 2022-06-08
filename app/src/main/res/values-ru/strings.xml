@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Регистрация</string>
+    <string name="sing_in" translatable="false">Войти</string>
+    <string name="sing_up" translatable="false">Регистрация</string>
+    <string name="avatar" translatable="false">Аватар</string>
+    <string name="name1" translatable="false">Имя</string>
+    <string name="name2" translatable="false">Отчество</string>
+    <string name="name3" translatable="false">Фамилия</string>
+    <string name="no_acc">Такого аккаунта не существует</string>
+    <string name="exit">Выйти</string>
+</resources>
